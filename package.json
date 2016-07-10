@@ -1,0 +1,20 @@
+{
+  "name": "gas-api-run",
+  "version": "1.0.0",
+  "description": "Google Apps Script Execution API Javascript client",
+  "homepage": "https://github.com/fossamagna/gas-api-run",
+  "author": {
+    "name": "fossamagna",
+    "email": "fossamagna2@gmail.com",
+    "url": "https://github.com/fossamagna"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": "fossamagna/gas-api-run",
+  "license": "Apache 2.0 License",
+  "devDependencies": {
+    "eslint": "3.0.1"
+  }
+}
