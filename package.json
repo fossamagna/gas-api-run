@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "eslint .",
+    "test": "eslint src",
     "build": "babel src/index.js --out-file index.js"
   },
   "repository": "fossamagna/gas-api-run",

@@ -1,4 +1,4 @@
-# gas-api-run
+# gas-api-run  [![Build Status][travis-image]][travis-url]
 
 > Google Apps Script Execution API Javascript client
 
@@ -47,3 +47,6 @@ index.hml
 Apache 2.0 License
 
 This module is based on JavaScript Quickstart [sample code](https://developers.google.com/apps-script/guides/rest/quickstart/js) of Google Apps Script and according to terms described in the Apache 2.0 License.
+
+[travis-image]: https://travis-ci.org/fossamagna/gas-api-run.svg?branch=master
+[travis-url]: ps://travis-ci.org/fossamagna/gas-api-run
