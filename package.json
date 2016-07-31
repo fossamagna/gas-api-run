@@ -10,11 +10,14 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "eslint ."
+    "test": "eslint .",
+    "build": "babel src/index.js --out-file index.js"
   },
   "repository": "fossamagna/gas-api-run",
-  "license": "Apache 2.0 License",
+  "license": "Apache License 2.0",
   "devDependencies": {
+    "babel-cli": "6.11.4",
+    "babel-preset-es2015": "6.9.0",
     "eslint": "3.0.1"
   }
 }
