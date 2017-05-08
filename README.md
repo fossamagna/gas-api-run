@@ -1,5 +1,7 @@
 # gas-api-run  [![Build Status][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fossamagna/gas-api-run.svg)](https://greenkeeper.io/)
+
 > Google Apps Script Execution API Javascript client
 
 ## Installation
